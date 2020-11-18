@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reverse-gorilla.netlify.app/categories</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/tags</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hooks</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/category/uncategorized/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/tag/theme/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/posts/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/post/menu-label/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/right-notation</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/privacy-policy</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/disclaimer</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/contact-success</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/contact-form</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-drawer-nav/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-get-template-part-args-slug/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-append-drawer-nav/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+</urlset>
