@@ -9,11 +9,11 @@
 <url> <loc>https://reverse-gorilla.netlify.app/post/menu-label/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/right-notation</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/privacy-policy</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/contact-form</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/contact-success</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/disclaimer</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reverse-gorilla.netlify.app/contact-form</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-drawer-nav/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-get-template-part-args-slug/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-append-drawer-nav/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-get-template-part-args-slug/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 </urlset>
