@@ -23,10 +23,13 @@
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-wp-awesome-widgets-view-slug-name/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-archive-entry-content/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-contents/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-footer/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-wp-awesome-widgets-view-slug/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-pre-template-part-render-slug/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-main/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-wp-awesome-widgets-view-render/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-pre-template-part-render/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-prepend-entry-content/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-wp-awesome-widgets-view-args/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-pre-page-header-image-url/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/hook/snow-monkey-view/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
