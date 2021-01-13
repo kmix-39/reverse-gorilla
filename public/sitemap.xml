@@ -5,6 +5,7 @@
 <url> <loc>https://reverse-gorilla.netlify.app/hooks</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/category/option/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/category/uncategorized/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/tag/smb/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/tag/theme/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/posts/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/post/menu-label/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
@@ -18,6 +19,7 @@
 <url> <loc>https://reverse-gorilla.netlify.app/post/options-page-speed-optimization/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/post/options-sns/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/post/options-seo/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reverse-gorilla.netlify.app/post/smb-available-blocks/</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/right-notation</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/privacy-policy</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reverse-gorilla.netlify.app/disclaimer</loc> <changefreq>weekly</changefreq> <priority>0.7</priority> </url>
